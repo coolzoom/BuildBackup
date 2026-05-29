@@ -1,0 +1,10 @@
+3.4.3	53788	wow_classic	ac0b091d8852985a2ce03e416fbf1cf1	1f6b67590d1017e32f75aceff1be0b79
+
+BuildBackup.exe dumpinfo wow_classic ac0b091d8852985a2ce03e416fbf1cf1 1f6b67590d1017e32f75aceff1be0b79
+
+3.4.3	58936	wow_classic	a14ed3bad54f7c50bb2beb472441b1e5	854ffbb60ca31b5cfbfeaaee05657107
+
+BuildBackup.exe dumpinfo wow_classic a14ed3bad54f7c50bb2beb472441b1e5 854ffbb60ca31b5cfbfeaaee05657107
+
+12.0.5	67823	wow	399d19713d9fe33f5c84e6935a515e2d	5041b30215d06a0c5403d6af9a9456df
+BuildBackup.exe dumpinfo wow 399d19713d9fe33f5c84e6935a515e2d 5041b30215d06a0c5403d6af9a9456df
